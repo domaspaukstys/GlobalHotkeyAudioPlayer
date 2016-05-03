@@ -1,0 +1,4 @@
+obj
+bin
+/.vs/PlayerToDevice/v14/*.suo
+*.DotSettings
